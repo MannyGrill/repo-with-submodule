@@ -1,3 +1,6 @@
 [submodule "sample-submodule"]
 	path = sample-submodule
 	url = https://github.com/MannyGrill/sample-submodule.git
+[submodule "playground-2"]
+	path = playground-2
+	url = ../playground-2
